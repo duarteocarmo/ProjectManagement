@@ -10,5 +10,5 @@ With the purpose of answering this question, 3 different scheduling techniques w
 
 
 
-[Read the entire project here.](https://www.dropbox.com/s/4hc6o7tiblkhamq/Final%20Report_DuarteOC_s160951%20%282%29.pdf?dl=0)
+[Read the full project here.](https://www.dropbox.com/s/4hc6o7tiblkhamq/Final%20Report_DuarteOC_s160951%20%282%29.pdf?dl=0)
 
